@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://g.dev/anujkkarmakar" target="blank"><img align="center" src="https://developers.google.cn/site-assets/images/home/google_developers_logo.png?hl=zh-cn" alt="anujkkarmakar" height="30" width="40" /></a>
 <a href="https://twitter.com/anujkkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anujkkarmakar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anujkkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anujkkarmakar" height="30" width="40" /></a>
-<a href="https://instagram.com/anuj_k_karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuj_k_karmakar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/anujkkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anujkkarmakar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anuj2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuj2020" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anujkkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujkkarmakar" height="30" width="40" /></a>
