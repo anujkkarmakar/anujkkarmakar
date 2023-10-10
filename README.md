@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Anuj Kumar Karmakar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujkkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="anujkkarmakar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujkkarmakar" alt="anujkkarmakar" /></a> </p>
