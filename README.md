@@ -15,7 +15,7 @@
 ## 🛠️ Technical Skills
 ```json
 {
-  "Mobile Development": ["Android (Java/Kotlin)", "Jetpack Compose"],
+  "Mobile Development": ["Android (Java/Kotlin)", "Jetpack Compose", "XML"],
   "Web Development": ["HTML", "CSS", "JavaScript"],
   "Cloud & Backend": ["AWS (EC2, Lambda, RDS)", "Firebase"],
   "Frameworks": ["TailwindCSS", "Bootstrap"],
