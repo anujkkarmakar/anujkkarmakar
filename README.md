@@ -10,7 +10,6 @@
 - 📱 Android Developer with expertise in Java and Kotlin
 - 🌐 Full Stack Web Developer
 - 🏆 Smart India Hackathon 2024 Grand Finalist
-- 📊 Top 2% in NPTEL's Java certification among 40,000+ learners
 
 ## 🛠️ Technical Skills
 ```json
@@ -31,27 +30,27 @@
 - Digital ticket booking system with Firebase integration
 - Real-time tracking and environmental impact monitoring
 - Secure user authentication and transaction handling
-- [View Project](link-to-project)
+- [View Project](https://github.com/anujkkarmakar/TransitAI_Passenger)
 
 ### IntelliSched
 📅 Intelligent Class Schedule Generator
 - Implemented Genetic Algorithm for optimal scheduling
 - Handles complex constraints and requirements
 - Built with Python & Tkinter
-- [View Project](link-to-project)
+- [View Project](https://github.com/Puskar-Roy/InteliSched)
 
 ### AirQuality
 🌍 Real-time Air Quality Monitoring App
 - Location-based AQI tracking
 - 5-point visualization system
 - REST API integration
-- [View Project](link-to-project)
+- [View Project](https://github.com/anujkkarmakar/airquality)
 
 ## 🏅 Achievements
 - 🥇 Grand Finalist at Smart India Hackathon 2024
 - 📊 Top 5% in NPTEL's Behavioral Finance course
 - 🏆 10th position among 800+ teams at Smart Bengal Hackathon
-- 📱 Top 2% in NPTEL's Java Programming certification
+- 📊 Top 2% in NPTEL's Java certification among 40,000+ learners
 
 ## 📈 GitHub Stats
 
