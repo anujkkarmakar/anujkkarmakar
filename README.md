@@ -30,7 +30,7 @@
 - Digital ticket booking system with Firebase integration
 - Real-time tracking and environmental impact monitoring
 - Secure user authentication and transaction handling
-- [View Project](https://github.com/anujkkarmakar/TransitAI_Passenger)
+- [View Project](https://anujkkarmakar.github.io/TransitAI_Passenger/)
 
 ### IntelliSched
 📅 Intelligent Class Schedule Generator
