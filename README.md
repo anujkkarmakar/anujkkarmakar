@@ -23,41 +23,12 @@
 }
 ```
 
-## 🚀 Featured Projects
-
-### TransitAI Passenger
-🚍 Android application for Delhi Transport Corporation (DTC)
-- Digital ticket booking system with Firebase integration
-- Real-time tracking and environmental impact monitoring
-- Secure user authentication and transaction handling
-- [View Project](https://anujkkarmakar.github.io/TransitAI_Passenger/)
-
-### IntelliSched
-📅 Intelligent Class Schedule Generator
-- Implemented Genetic Algorithm for optimal scheduling
-- Handles complex constraints and requirements
-- Built with Python & Tkinter
-- [View Project](https://github.com/Puskar-Roy/InteliSched)
-
-### AirQuality
-🌍 Real-time Air Quality Monitoring App
-- Location-based AQI tracking
-- 5-point visualization system
-- REST API integration
-- [View Project](https://github.com/anujkkarmakar/airquality)
-
 ## 🏅 Achievements
 - 🥇 Grand Finalist at Smart India Hackathon 2024
 - 📊 Top 5% in NPTEL's Behavioral Finance course
 - 🏆 10th position among 800+ teams at Smart Bengal Hackathon
 - 📊 Top 2% in NPTEL's Java certification among 40,000+ learners
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujkkarmakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkkarmakar&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Connect With Me
 <div align="center">
